@@ -12,6 +12,12 @@ cd pretend-css-quiz
 open index.html
 ```
 
+## Team
+
+[![Scott Humphries](https://github.com/sscotth.png)](https://github.com/sscotth)
+[![Linus Torvalds](https://github.com/torvalds.png)](https://github.com/torvalds)
+[![Douglas Crockford](https://github.com/douglascrockford.png)](https://github.com/douglascrockford)
+
 ## License
 
 [MIT](https://github.com/NSS-Cohort-13/pretend-css-quiz/blob/master/LICENSE)
