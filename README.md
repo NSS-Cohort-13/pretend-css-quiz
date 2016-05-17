@@ -14,9 +14,9 @@ open index.html
 
 ## Team
 
-[![Scott Humphries](https://github.com/sscotth.png)](https://github.com/sscotth)
-[![Linus Torvalds](https://github.com/torvalds.png)](https://github.com/torvalds)
-[![Douglas Crockford](https://github.com/douglascrockford.png)](https://github.com/douglascrockford)
+[![Scott Humphries](https://github.com/sscotth.png?size=40)](https://github.com/sscotth)
+[![Linus Torvalds](https://github.com/torvalds.png?size=40)](https://github.com/torvalds)
+[![Douglas Crockford](https://github.com/douglascrockford.png?size=40)](https://github.com/douglascrockford)
 
 ## License
 
