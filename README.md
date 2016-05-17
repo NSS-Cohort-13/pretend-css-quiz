@@ -2,7 +2,7 @@
 
 [Demo](http://nss-cohort-13.github.io/pretend-css-quiz/)
 
-![Screen Shot]()
+![Screen Shot](https://raw.githubusercontent.com/NSS-Cohort-13/pretend-css-quiz/master/img/ScreenShot.png)
 
 ## Installation
 
